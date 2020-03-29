@@ -27,7 +27,7 @@ export default function Incidents() {
       return;
     }
 
-    if (total > 0 && incidents.length === total) {
+    if (total > 0 && incidents.length == total) {
       return;
     }
 
